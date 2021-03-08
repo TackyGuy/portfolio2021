@@ -1,0 +1,44 @@
+[
+    {
+        "id": "j00",
+        "titre": "Voltorb Flip",
+        "desc": "Clone du mini jeu de Pokémon",
+        "roles" : "Programmeur, Intrégrateur"
+    },
+    {
+      "id": "j01",
+      "titre": "Jeu de rôle Tour par Tour",
+      "desc": "Prototype d'un système de combat tour par tour",
+      "roles" : "Programmeur, Intrégrateur"
+    },
+    {
+      "id": "j02",
+      "titre": "Dasher",
+      "desc": "Prototype d'un jeu d'action et de plateformes généré aléatoirement",
+      "roles" : "Programmeur, Compositeur, Intégrateur"
+    },
+    {
+      "id": "j03",
+      "titre": "Ye",
+      "desc": "Prototype d'un jeu narratif.",
+      "roles" : "Programmeur, Intrégrateur"
+    },
+    {
+      "id": "j04",
+      "titre": "Jeu de tir à la premiere personne",
+      "desc": "Prototype d'un jeu de tir à la première personne généré aléatoirement. Avec mécanique de rebond.",
+      "roles" : "Programmeur, Intrégrateur"
+    },
+    {
+        "id": "j05",
+        "titre": "Comment Savoir si mon chat est possédé par des démons",
+        "desc": "Réalisé pour un Game Jam. Jeu de plateformes où le joueur veut détuire le plus d'objets possible.",
+        "roles" : "Programmeur"
+    },
+    {
+        "id": "j06",
+        "titre": "Cavernes",
+        "desc": "Jeu de plateformes et d'exploration en multijoueur local. C'est un jeu où les joueurs explorent des réseaux de cavernes générés aléatoirement.",
+        "roles" : "Programmeur, Compositeur"
+    }
+  ]

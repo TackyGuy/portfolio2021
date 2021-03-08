@@ -1,0 +1,16 @@
+
+.Projets
+{
+    background-color: #3D5A80;
+    .GallerieProjets
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+
+        box-sizing: border-box;
+        padding-top: 25px;
+        //margin: 5em 2em;
+    }
+}
